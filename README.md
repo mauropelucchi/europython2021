@@ -1,7 +1,7 @@
 # Data Ingestion and Big Data @ EUROPYTHON 2021
 ## Build a dataset from zero to solid
 
-![](https://raw.githubusercontent.com/mauropelucchi/europython2021/main/img/ep2021-logo-1024px-alpha.png)
+![](https://raw.githubusercontent.com/mauropelucchi/europython2021/main/img/logo.png)
 
 Web scraping, crawling and API are the first step to retrieve information to use for analysis
 and to start a new business.
